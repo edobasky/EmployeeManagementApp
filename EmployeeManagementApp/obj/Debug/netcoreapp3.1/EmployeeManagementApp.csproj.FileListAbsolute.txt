@@ -107,3 +107,4 @@ C:\Users\hp\Desktop\EmployeeManagement App\EmployeeManagementApp\EmployeeManagem
 C:\Users\hp\Desktop\EmployeeManagement App\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\hp\Desktop\EmployeeManagement App\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\hp\Desktop\EmployeeManagement App\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\hp\Desktop\EmployeeManagement App\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs

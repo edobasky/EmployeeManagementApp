@@ -41,3 +41,8 @@ input[type="checkbox"].input-validation-error {
     display: none;
 }
 
+.imageThumbnail {
+    height : 200px;
+    width: auto;
+}
+
